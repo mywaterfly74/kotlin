@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Cafe</string>
+    <string name="ip_port">88.206.59.148:8888</string>
+</resources>

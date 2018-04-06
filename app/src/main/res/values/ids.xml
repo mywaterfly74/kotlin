@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="menuView" type="id">1</item>
+    <item name="description" type="id">2</item>
+    <item name="name" type="id">3</item>
+    <item name="buttonSSS" type="id">4</item>
+    <item name="linearLayout" type="id">6</item>
+    <item name="linearLayout1" type="id">9</item>
+    <item name="constraintLayoutDishItem" type="id">10</item>
+    <item name="imageViewDish" type="id">11</item>
+    <item name="textViewDishPrice" type="id">12</item>
+    <item name="textViewDishCount" type="id">13</item>
+    <item name="textViewDishName" type="id">14</item>
+    <item name="buttonPlus" type="id">15</item>
+    <item name="buttonMinus" type="id">16</item>
+    <item name="download" type="id">17</item>
+    <item name="textCategoryName" type="id">18</item>
+    <item name="cardViewCategory" type="id">19</item>
+    <item name="buttonAddToBasket" type="id">20</item>
+    <item name="toolbar_main" type="id">21</item>
+    <item name="mainActivityWhite" type="id">22</item>
+    <item name="mainFloatingButton" type="id">23</item>
+
+</resources>
